@@ -1,2 +1,2 @@
-# python_cedulas_costa_rica
+# python_txt
 trabajar archivos de cedulas TXT
